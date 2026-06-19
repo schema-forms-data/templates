@@ -7,10 +7,10 @@
   "homepage": "https://schemaforms.github.io/schema-forms-data",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SchemaFormsData/templates.git"
+    "url": "https://github.com/schema-forms-data/templates.git"
   },
   "bugs": {
-    "url": "https://github.com/SchemaFormsData/templates/issues"
+    "url": "https://github.com/schema-forms-data/templates/issues"
   },
   "keywords": [
     "react",
@@ -53,7 +53,7 @@
     "prepublishOnly": "pnpm run clean && pnpm run build"
   },
   "dependencies": {
-    "@schema-forms-data/core": "^4.0.7"
+    "@schema-forms-data/core": "^4.0.11"
   },
   "peerDependencies": {
     "react": "^18.0.0"
