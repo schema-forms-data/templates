@@ -56,7 +56,7 @@
     "prepublishOnly": "pnpm run clean && pnpm run build"
   },
   "dependencies": {
-    "@schema-forms-data/core": "4.0.11"
+    "@schema-forms-data/core": "4.0.12"
   },
   "peerDependencies": {
     "react": "18.0.0"
